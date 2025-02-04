@@ -1,2 +1,1 @@
-# Semana3-Grupo5
-Repositório para realização da atividade da semana 3 do processo do treinee
+Repositorio para a realização do Treinamento Trainee Back-end da iJunior Soluções Digitais do Grupo 3
